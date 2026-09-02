@@ -2,9 +2,15 @@
 node_modules/
 .pnp
 .pnp.js
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
 
 # Testing
 .coverage
+pytest_cache/
 
 # Production
 .next/
